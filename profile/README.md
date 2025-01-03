@@ -1,4 +1,4 @@
-## Hi there 👋
+## Personal Projects for repository (For School and personal practice)
 
 <!--
 
