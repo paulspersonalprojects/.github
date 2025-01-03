@@ -1,13 +1,8 @@
 {
     "name": "defaultworkflow",
     "description": "Default Workflow Template.",
-    "iconName": "example-icon",
+    "iconName": "icon",
     "categories": [
         "Go"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
